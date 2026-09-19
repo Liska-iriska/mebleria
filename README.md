@@ -4,7 +4,7 @@
 
 ## 👥 Про команду
 * **Назва команди:** ROZBYSHAKY
-* **Репозиторій:** project-group-12
+* **Репозиторій:** mebleria
 * **Склад команди:** 11 учасників.
 
 ## 🛠 Технологічний стек
@@ -21,7 +21,7 @@
 
 ## 🏗 Структура проєкту
 Згідно з архітектурою файлів:
-* `src/css/` — стилі для кожного блоку окремо (hero.css, furniture-list.css тощо). 
+* `src/css/` — стилі для кожного блоку окремо (hero.css, furniture-list.css тощо).
     * `базові налаштування` — base.css, reset.css, container.css.
 * `js/` — модульна логіка:
     * `api/` — взаємодія з бекендом.
@@ -50,13 +50,13 @@
 
 1.  **Клонуйте репозиторій:**
     ```bash
-    git clone https://github.com/[ваш-аккаунт]/project-group-12.git
+    git clone https://github.com/Liska-iriska/mebleria.git
 
     Використовуйте SSH key.
     ```
 2.  **Перейдіть у папку проєкту:**
     ```bash
-    cd project-group-12
+    cd mebleria
     ```
 3.  **Встановіть залежності (якщо використовується збірник, наприклад Vite або Parcel):**
     ```bash
